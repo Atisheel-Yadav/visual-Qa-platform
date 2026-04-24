@@ -240,7 +240,7 @@ function App() {
     try {
       setLoading(true);
 
-      const response = await axios.post("http://localhost:8000/analyze", {
+      const response = await axios.post("https://visual-qa-platform.onrender.com/analyze", {
         url: url,
       });
 
