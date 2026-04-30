@@ -5,7 +5,6 @@ An AI-powered full-stack web application that automatically analyzes website UI/
 ---
 
 
----
 
 ## 📌 Project Overview
 
@@ -83,8 +82,6 @@ The system combines:
 ---
 
 
-
----
 
 ### 🔹 1. Clone Repository
 
